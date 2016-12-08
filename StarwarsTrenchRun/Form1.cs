@@ -101,7 +101,7 @@ namespace StarwarsTrenchRun
                 g.FillEllipse(redBrush, 366 - z / 2, 330 - z / 2, 10 + z, 10 + z);
                 Thread.Sleep(10);
 
-                //change the variables
+                //change variables
                 z += 2;
                 w++;
             }
